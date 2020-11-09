@@ -1,5 +1,5 @@
 {
-  "name": "stripe/stripe-php",
+  "name": "manychat/stripe-php",
   "description": "Stripe PHP Library",
   "keywords": [
     "stripe",
